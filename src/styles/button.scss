@@ -7,7 +7,7 @@ button {
   width: 100%;
 
   border: 0;
-  background: var(--background-button);
+  background: #29292e;
   padding: 1.1875rem 2rem;
   border-radius: 0.25rem;
 
@@ -15,7 +15,7 @@ button {
   color: var(--white);
 
   &:hover {
-    background: var(--background-button2);
+    background: #323238;
   }
 
   transition: background 200ms;
@@ -29,7 +29,7 @@ button {
   }
 
   &.selected {
-    background: var(--background-button2);
-    color: var(--yellow);
+    background: #323238;
+    color: #04d361;
   }
 }
