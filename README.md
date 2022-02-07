@@ -9,7 +9,7 @@ O desafio proposto foi componentizar uma aplicação que tinha todos os seus ele
 
 ## Desafio completo
 
-![App Screenshot](https://uploaddeimagens.com.br/images/003/710/161/thumb/watch-me-screen.png?1644239393)
+![App Screenshot](https://uploaddeimagens.com.br/images/003/710/161/full/watch-me-screen.png?1644239393)
 
 ## Demonstração
 
